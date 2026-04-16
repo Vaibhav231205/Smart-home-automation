@@ -24,6 +24,7 @@ User sends command via mobile app → ESP32 receives via WiFi → Relay switches
 ![Setup](images/sra-img-2.jpeg)
 
 ## 📸 Application interface
+![Setup](images/sra-img-5.jpeg)
 
 
 ## 🔧 Circuit Diagram
